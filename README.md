@@ -1,15 +1,11 @@
 # Angular: Weather Component
 
-## Environment 
+## Windows Environment setup
 
-- Angular CLI Version: 10.0.4
-- Angular Core Version: 10.0.4
-- Node Version: 12.18.3
-- Default Port: 8000
+npm install -g node@12.18.3
+npm install -g @angular/cli@10.0.4
+npm install -g @angular/core@10.0.4
 
-## Application Demo:
-
-![](https://hrcdn.net/s3_pub/istreet-assets/aiYyB8bIMufQ00lpPduPbQ/weather-component.gif)
 
 ## Functionality Requirements
 
@@ -53,16 +49,4 @@
 - src/app/app.component.ts
 - src/app/app.module.ts
 
-**Commands**
-- run: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm start
-```
-- install: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm install
-```
-- test: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
-```
+

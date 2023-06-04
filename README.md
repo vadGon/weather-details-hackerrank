@@ -2,9 +2,9 @@
 
 ## Windows Environment setup
 
-npm install -g node@12.18.3
-npm install -g @angular/cli@10.0.4
-npm install -g @angular/core@10.0.4
+    npm install -g node@12.18.3
+    npm install -g @angular/cli@10.0.4
+    npm install -g @angular/core@10.0.4
 
 
 ## Functionality Requirements
